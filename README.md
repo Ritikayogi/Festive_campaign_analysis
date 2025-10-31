@@ -1,5 +1,4 @@
-# AtliQ_Mart
-
+# Festive Campaign Analysis
 ## 🔗 Dashboard Link
 [Link to Dashboard](https://lnkd.in/ecPbUSKe)
 
